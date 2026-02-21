@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.10.4](https://github.com/jalibu/MMM-Jast/compare/v2.10.3...v2.10.4) (2026-02-21)
+
+### Chores
+
+- add missing type field in package.json ([10c3896](https://github.com/jalibu/MMM-Jast/commit/10c3896678ad28e08d5f0a67e2a5e116c7efd8c5))
+- change config variable from let to const and simplify demo script command ([b1965fa](https://github.com/jalibu/MMM-Jast/commit/b1965fa820b52ef1a5c131472a164a31f6d48678))
+- update dependencies ([ce45ae1](https://github.com/jalibu/MMM-Jast/commit/ce45ae1be0e4e626e6d01a2b941d742cf6f01ecd))
+
 ## [2.10.3](https://github.com/jalibu/MMM-Jast/compare/v2.10.2...v2.10.3) (2026-01-11)
 
 ### Fixed
